@@ -3,4 +3,21 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <string name="name_record">Record</string>
+    <string name="name_about">About</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Pre-record-->
+    <string name="record_question">Ready?</string>
+    <string name="record_description">Press the record button to start.</string>
+
+    <!--During Record-->
+    <string name="speech_too_fast">A bit fast, try slowing down.</string>
+    <string name="speech_too_slow">A bit slow, try speeding up.</string>
+    <string name="speech_too_boring">Your voice is too monotone, try varying your speech.</string>
+    <string name="speech_perfect">Perfect! Keep it up!</string>
+
 </resources>
