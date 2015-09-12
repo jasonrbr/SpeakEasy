@@ -13,6 +13,8 @@
     <!--Pre-record-->
     <string name="record_question">Ready?</string>
     <string name="record_description">Press the record button to start.</string>
+    <string name="record_listening">Listening&#8230;</string>
+    <string name="record_listen_desc">Press the record button to stop.</string>
 
     <!--During Record-->
     <string name="speech_too_fast">A bit fast, try slowing down.</string>
